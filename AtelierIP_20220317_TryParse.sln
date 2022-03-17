@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtelierIP_20220317_TryParse", "AtelierIP_20220317_TryParse\AtelierIP_20220317_TryParse.csproj", "{F4E8B273-63D2-4569-8E5C-73BFB055A16C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtelierIP_20220317_TryParse.Tests", "AtelierIP_20220317_TryParse.Tests\AtelierIP_20220317_TryParse.Tests.csproj", "{769647F5-84C0-4B10-9D8B-4F41927A12CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E8B273-63D2-4569-8E5C-73BFB055A16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E8B273-63D2-4569-8E5C-73BFB055A16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E8B273-63D2-4569-8E5C-73BFB055A16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E8B273-63D2-4569-8E5C-73BFB055A16C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769647F5-84C0-4B10-9D8B-4F41927A12CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769647F5-84C0-4B10-9D8B-4F41927A12CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769647F5-84C0-4B10-9D8B-4F41927A12CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769647F5-84C0-4B10-9D8B-4F41927A12CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {586A7B22-20F5-40F5-BF9D-B40B1C839335}
+	EndGlobalSection
+EndGlobal
